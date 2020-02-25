@@ -29,9 +29,6 @@ Cuando comence a realizar el ejercicio lo desarrolle con NET Core por lo que tuv
 
 
 
-### Uso
 
-Para poder probar la api se debe apuntar a  http://testmutante.azurewebsites.net/mutant/ y pasarle el ADN a analizar
-y para poder hacer la estadistica se tiene que ir a http://testmutante.azurewebsites.net/stast/
 
 
