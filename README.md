@@ -1,7 +1,7 @@
 # Proyecto-Api-Mercado-Libre-Mendoza
 Api para verificar mutantes
-[![Build Status](https://testmutante.azurewebsites.net/stats/)](https://testmutante.azurewebsites.net/mutant/)
-[![codecov](https://testmutante.azurewebsites.net/stats/)](https://testmutante.azurewebsites.net/stats/)
+[![Build Status](http://testmutante.azurewebsites.net/stats/)](http://testmutante.azurewebsites.net/mutant/)
+[![codecov](http://testmutante.azurewebsites.net/stats/)](http://testmutante.azurewebsites.net/stats/)
 
 ### Especificaciones
 
@@ -31,7 +31,7 @@ Cuando comence a realizar el ejercicio lo desarrolle con NET Core por lo que tuv
 
 ### Uso
 
-Para poder probar la api se debe apuntar a https://testmutante.azurewebsites.net/mutant/ y pasarle el ADN a analizar
-y para poder hacer la estadistica se tiene que ir a https://testmutante.azurewebsites.net/stast/
+Para poder probar la api se debe apuntar a  http://testmutante.azurewebsites.net/mutant/ y pasarle el ADN a analizar
+y para poder hacer la estadistica se tiene que ir a http://testmutante.azurewebsites.net/stast/
 
 
