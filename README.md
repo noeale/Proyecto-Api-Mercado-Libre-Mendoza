@@ -1,7 +1,7 @@
 # Proyecto-Api-Mercado-Libre-Mendoza
 Api para verificar mutantes
-http://testmutante.azurewebsites.net/mutant/
-http://testmutante.azurewebsites.net/stats/
+https://testmutante.azurewebsites.net/mutant/
+https://testmutante.azurewebsites.net/stats/
 
 ### Especificaciones
 
