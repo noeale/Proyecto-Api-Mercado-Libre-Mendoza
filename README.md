@@ -1,7 +1,7 @@
 # Proyecto-Api-Mercado-Libre-Mendoza
 Api para verificar mutantes
-[![Build Status](http://testmutante.azurewebsites.net/stats/)](http://testmutante.azurewebsites.net/mutant/)
-[![codecov](http://testmutante.azurewebsites.net/stats/)](http://testmutante.azurewebsites.net/stats/)
+http://testmutante.azurewebsites.net/mutant/
+http://testmutante.azurewebsites.net/stats/
 
 ### Especificaciones
 
